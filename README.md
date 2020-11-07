@@ -48,6 +48,8 @@ file:///C:/TOOL/beat-saber-overlay-bsr_no-performance/bsdp-like_ld?modifiers=bsr
 	* 1080p(1920x1080)の画面で使用するために、オーバーレイを1.5倍にスケーリングします。
 - `bsr`
 	* bsrの検索・表示をします。
+- `miss`
+	* コンボ数の右にミス数を表示します。
 - `no-hidden`
 	* 終了時に表示を消しません。
 
