@@ -1,6 +1,6 @@
 # HTTP STatus版 Beat Saber Overlay 用 bsdp-like-overlay
 
-これは、拙作の[Beat Saber Overlay bsr,no-performanceオプション追加版](https://github.com/rynan4818/beat-saber-overlay)の10/31更新以降に対応した、[DataPuller](https://github.com/kOFReadie/BSDataPuller)の[BSDP-Overlay](https://github.com/kOFReadie/BSDP-Overlay)ライクなオーバーレイ用HTML&CSSです。
+これは、拙作の[Beat Saber Overlay 改良版](https://github.com/rynan4818/beat-saber-overlay)の10/31更新以降に対応した、[DataPuller](https://github.com/kOFReadie/BSDataPuller)の[BSDP-Overlay](https://github.com/kOFReadie/BSDP-Overlay)ライクなオーバーレイ用HTML&CSSです。
 
 ![preview](https://rynan4818.github.io/bsdp-like-overlay.png)
 
